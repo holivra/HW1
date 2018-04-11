@@ -3,8 +3,8 @@
 
 ### Configuração Básica
 ```
-- [x] Criar um repositório chamado HW1, na sua conta.
-- [x] Adicionar o professor como colaborador.
+[x] Criar um repositório chamado HW1, na sua conta.
+[x] Adicionar o professor como colaborador.
 ```
 
 ### Aprendendo o Git
