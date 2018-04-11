@@ -8,7 +8,7 @@
 
 ### Aprendendo o Git
 ```
-
+- [x] Resolver os quatro primeiros níveis do exercício proposto em [Learn Git Branching](https://learngitbranching.js.org/)
 ```
 
 ### Hooks 
