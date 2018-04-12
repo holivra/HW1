@@ -21,5 +21,5 @@ após um commit ser executado nesse repositório.
 ```
 - [x] Criar screencast com a solução:
 
-[![Hooks post-commit](http://i1.ytimg.com/vi/wCPeYwvUw5w/default.jpg)](https://www.youtube.com/watch?v=wCPeYwvUw5w&authuser=0)
+[![Hooks post-commit](https://img.youtube.com/vi/wCPeYwvUw5w/0.jpg)](https://www.youtube.com/watch?v=wCPeYwvUw5w&authuser=0)
 
