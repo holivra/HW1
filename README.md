@@ -15,6 +15,9 @@ Comprovação enviada por email para o professor, através de uma captura de tel
 
 ### Hooks 
 ```
-
+Em um repositório local, crie em arquivo "post-commit" em .git/hooks. Dentro do arquivo, crie um comando que abrirá uma página da Web imediatamente após o commit ser executado nesse repositório.
 ```
+- [x] Criar screencast com a solução.
+[Hooks post-commit](https://www.youtube.com/watch?v=wCPeYwvUw5w&authuser=0)
+
 
